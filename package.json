@@ -1,5 +1,5 @@
 {
-  "name": "tic-tac-toe-winner",
+  "name": "tic-tac-toe-detect-winner",
   "version": "1.0.0",
   "description": "find winner in tic-tac-toe game",
   "main": "index.js",

@@ -1,10 +1,9 @@
 {
   "name": "tic-tac-toe-detect-winner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find winner in tic-tac-toe game",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AMNeverova/tic-tac-toe-winner.git"
